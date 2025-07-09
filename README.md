@@ -12,5 +12,13 @@ This repository contains two Python scripts that demonstrate the use of Chebyshe
 
 The scripts simulate the decay of a single isotope over time and compare the CRAM solution to the analytical exponential decay solution. These techniques are widely used in depletion calculations in Monte Carlo codes such as OpenMC and Serpent.
 
-## Example Output
+## Requirements
 
+- Python 3.x
+- NumPy
+- SciPy
+
+Install required packages using:
+
+```bash
+pip install numpy scipy
